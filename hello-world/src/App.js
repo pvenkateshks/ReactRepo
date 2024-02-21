@@ -13,7 +13,9 @@ let name = "Priyanka";
         </nav>
         <div className="container">
           <h1>Hello {name}</h1>
+          <h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates deserunt quibusdam nisi voluptatibus placeat voluptas nobis ut suscipit, quo impedit quod voluptatum dicta neque beatae quos sed earum? Maiores, autem!</h2>
         </div>
+
         </>
   );
 }
