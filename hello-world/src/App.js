@@ -7,8 +7,11 @@ import TextForm from './components/TextForm';
 export default function App() {
   return (
       <>
-      <Navbar/>
-      <TextForm/>
+      <Navbar title = "Home"/>
+      <div className="container">
+      <TextForm heading = "Enter the text to analyse"/>
+      </div>
+      
       </>
   );
 }
